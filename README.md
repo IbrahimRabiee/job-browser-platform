@@ -1,24 +1,41 @@
 ## Job Browser
 
-A React-based job search application that allows users to browse and search job listings through an external API.
+A modern React application for browsing and exploring job opportunities through an intuitive and responsive user interface.
 
 ## Features
-- Search jobs
-- Filter job listings
-- Responsive user interface
-- API integration
+- Browse available job listings
+- Search jobs by keyword
+- View detailed job information
+- Responsive design for desktop and mobile devices
+- Dynamic data fetching from external APIs
 
 ## Technologies
 - React.js
+- React Router
 - JavaScript
 - CSS / Tailwind CSS
+- REST APIs
+
+## Screenshot
+
+![Project Screenshot](./public/screenshots/project.png)
+
 
 ## Installation
 - npm install
 - npm run dev
 
+## What I Learned
+- React component architecture
+- State management
+- API integration
+- Client-side routing
+- Responsive UI development
+
 ## Future Improvements
 - User authentication
-- Saved jobs
+- Saved jobs functionality
 - Backend integration
+- Job application tracking
+- Personalized recommendations
 - Database support

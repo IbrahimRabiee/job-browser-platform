@@ -9,7 +9,7 @@ const MainLayout = () => {
     <>
       <Navbar />
       <Outlet />
-      <ToastContainer className="!top-24 !right-10" />
+      <ToastContainer className="top-24! right-10!" />
     </>
   );
 };

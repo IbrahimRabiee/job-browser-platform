@@ -1,16 +1,41 @@
-# React + Vite
+## Job Browser
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React application for browsing and exploring job opportunities through an intuitive and responsive user interface.
 
-Currently, two official plugins are available:
+## Features
+- Browse available job listings
+- Search jobs by keyword
+- View detailed job information
+- Responsive design for desktop and mobile devices
+- Dynamic data fetching from external APIs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies
+- React.js
+- React Router
+- JavaScript
+- CSS / Tailwind CSS
+- REST APIs
 
-## React Compiler
+## Screenshot
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Project Screenshot](./public/screenshots/project.png)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+- npm install
+- npm run dev
+
+## What I Learned
+- React component architecture
+- State management
+- API integration
+- Client-side routing
+- Responsive UI development
+
+## Future Improvements
+- User authentication
+- Saved jobs functionality
+- Backend integration
+- Job application tracking
+- Personalized recommendations
+- Database support

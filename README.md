@@ -18,7 +18,7 @@ A modern React application for browsing and exploring job opportunities through 
 
 ## Screenshot
 
-![Project Screenshot](./public/screenshots/project.png)
+![Project Screenshot](./public/project.png)
 
 
 ## Installation
